@@ -1,5 +1,5 @@
 In this sample project I used Repository design pattern and policy for authorization.
-user passport for auth.
+and use passport for auth.
 
 ##project requirement
 
