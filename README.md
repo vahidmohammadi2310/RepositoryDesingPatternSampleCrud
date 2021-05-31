@@ -3,7 +3,7 @@ and use passport for auth.
 
 ##project requirement
 ```
-git clone git clone https://github.com/vahidmohammadi2310/paystarTest
+git clone https://github.com/vahidmohammadi2310/paystarTest
 composer install
 ```
 
@@ -21,6 +21,10 @@ edit below field in .env
 ```
 client_id=""
 client_secret=""
+```
+then migrate
+```
+php artisan migrate
 ```
 
 I used seeder for add user and default permiision to database
