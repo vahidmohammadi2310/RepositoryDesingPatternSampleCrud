@@ -14,7 +14,7 @@ create database and change database name in .env
 for authentication i used passport package 
 
 ```
-php artisan passport:install --force
+php artisan passport:install
 ```
 
 edit below field in .env
